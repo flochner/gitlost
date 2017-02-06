@@ -2,8 +2,6 @@
 
 Git Research Summary
 
-Due 6-Feb-2017
-
 **1. Things I know about Git**
 
 * It has revision control, or, it's main function is revision control.  
