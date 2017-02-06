@@ -1,7 +1,6 @@
 # Freddie Lochner
 
 Git Research Summary
-
 Due 6-Feb-2017
 
 **1. Things I know about Git**
