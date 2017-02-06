@@ -23,6 +23,13 @@ Due 6-Feb-2017
 * I read the [wikipedia page](https://en.wikipedia.org/wiki/Git) and learned some interesting things:
   * Linus Torvalds created Git.  Would have never guessed.  Seems like a recent Internet phenomenon.
   * This is going to hurt: [Git Operations](https://en.wikipedia.org/wiki/Git#/media/File:Git_operations.svg) (visual)
+* My understanding of the basic commands:
+  * **init** prepares the local directory (creates a hidden config/status file)
+  * **remote** makes a link back to the repository on github so you don't have to type in the url every time.
+  * **clone** makes a local copy of a remote repository.  It can be any public repo.
+  * **add** tells the local git to track the specified file.
+  * **commit** takes a snapshot of the specified files on the local repository.
+  * **push** takes the 'commit' and posts it to the remote repo on github.
 * Even with the 'git --help' I had trouble figuring out why my commands weren't working.
   * 'git commit' requires a filename or a global symbol (*).
   * When I set up a remote to 698 Notes (maybe it was my repo), I don't remember having to type my password in for every push.
