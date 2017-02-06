@@ -34,8 +34,6 @@ Due 6-Feb-2017
 
 **References**
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines) - github/adam-p
-
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - github
-
-[Git](https://en.wikipedia.org/wiki/Git) - wikipedia
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines) - github/adam-p
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - github
+- [Git](https://en.wikipedia.org/wiki/Git) - wikipedia
