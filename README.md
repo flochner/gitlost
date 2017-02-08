@@ -1,2 +1,2 @@
-# notes
-course notes
+# COMP698 
+Course Notes and Git playground
